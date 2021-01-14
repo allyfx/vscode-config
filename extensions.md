@@ -2,6 +2,8 @@
 
 - Better Comments
 
+- Bracket Pair Colorizer
+
 - Dracula Oficcial (Current theme)
 
 - EsLint
@@ -13,3 +15,7 @@
 - React Hooks Snippets
 
 - vscode-styled-components
+
+- Bracket Pair Colorizer 2 (Not in use)
+
+- Prettier Code Formatter (Not in use)
