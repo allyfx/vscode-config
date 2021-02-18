@@ -44,4 +44,5 @@
     "tsconfig.json": "tune",
     "*.proto": "3d"
   },
+  "editor.renderIndentGuides": true
 }
