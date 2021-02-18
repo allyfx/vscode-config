@@ -8,11 +8,15 @@
 
 - EsLint
 
+- GitLens - Git supercharged
+
 - Material Icon Theme
 
 - Omni (Theme downloaded but not currently in use)
 
 - React Hooks Snippets
+
+- Vetur
 
 - vscode-styled-components
 
