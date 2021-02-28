@@ -1,5 +1,7 @@
 ### These are the extensions I use in Visual Studio Code
 
+- Auto Rename Tag
+
 - Better Comments
 
 - Bracket Pair Colorizer
@@ -9,6 +11,8 @@
 - EsLint
 
 - GitLens - Git supercharged
+
+- Live Share
 
 - Material Icon Theme
 
