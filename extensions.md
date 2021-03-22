@@ -6,6 +6,8 @@
 
 - Bracket Pair Colorizer
 
+- Color Highlight
+
 - Dracula Oficcial (Current theme)
 
 - EsLint
