@@ -1,6 +1,5 @@
 {
-  "workbench.colorTheme": "Dracula",
-  "editor.fontSize": 19,
+  "workbench.colorTheme": "Tokyo Night",
   "editor.fontFamily": "Fira Code",
   "editor.fontLigatures": true,
   "workbench.iconTheme": "material-icon-theme",
@@ -18,7 +17,7 @@
   "editor.wordWrap": "on",
   "editor.accessibilitySupport": "off",
   "editor.tabSize": 2,
-  "window.zoomLevel": 0.8,
+  "window.zoomLevel": 2,
   "terminal.integrated.shell.osx": "/bin/zsh",
   "terminal.integrated.shell.linux": "/bin/zsh",
   "material-icon-theme.folders.associations": {
@@ -46,4 +45,5 @@
   "editor.renderIndentGuides": true,
   "liveshare.authenticationProvider": "GitHub",
   "editor.detectIndentation": false,
+  "editor.fontSize": 16
 }
