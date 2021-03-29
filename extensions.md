@@ -8,24 +8,40 @@
 
 - Color Highlight
 
-- Dracula Oficcial (Current theme)
+- CSS Modules
 
 - EsLint
 
 - GitLens - Git supercharged
-
+  
 - Live Share
 
-- Material Icon Theme
+- Markdown All in One
 
-- Omni (Theme downloaded but not currently in use)
+- Material Icon Theme
 
 - React Hooks Snippets
 
 - Vetur
-
+  
 - vscode-styled-components
 
-- Bracket Pair Colorizer 2 (Not in use)
+### Themes
 
-- Prettier Code Formatter (Not in use)
+- Tokyo Night (Current theme)
+
+- Dracula Oficcial
+  
+- Material Icon Theme
+
+- Omni Theme
+
+- GitHub Theme
+
+- Palenight Theme
+
+### Downloaded but disabled
+
+- Bracket Pair Colorizer 2
+
+- Prettier Code Formatter
