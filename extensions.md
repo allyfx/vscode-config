@@ -10,7 +10,9 @@
 
 - CSS Modules
 
-- EsLint
+- DotENV
+
+- ESLint
 
 - GitLens - Git supercharged
   
@@ -18,7 +20,7 @@
 
 - Markdown All in One
 
-- Material Icon Theme
+- Power Mode
 
 - React Hooks Snippets
 
