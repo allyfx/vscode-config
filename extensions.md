@@ -12,6 +12,8 @@
 
 - DotENV
 
+- Error Lens
+
 - ESLint
 
 - GitLens - Git supercharged
@@ -22,28 +24,14 @@
 
 - Power Mode
 
-- React Hooks Snippets
+- Prettier - Code formatter
 
-- Vetur
+- React Hooks Snippets
   
 - vscode-styled-components
 
 ### Themes
 
 - Tokyo Night (Current theme)
-
-- Dracula Oficcial
   
 - Material Icon Theme
-
-- Omni Theme
-
-- GitHub Theme
-
-- Palenight Theme
-
-### Downloaded but disabled
-
-- Bracket Pair Colorizer 2
-
-- Prettier Code Formatter
