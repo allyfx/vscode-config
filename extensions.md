@@ -27,6 +27,8 @@
 - Prettier - Code formatter
 
 - React Hooks Snippets
+
+- Tabnine
   
 - vscode-styled-components
 
