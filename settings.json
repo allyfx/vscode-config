@@ -1,61 +1,66 @@
 {
-  "workbench.colorTheme": "Tokyo Night",
   "editor.fontFamily": "Fira Code",
-  "editor.fontLigatures": true,
-  "workbench.iconTheme": "material-icon-theme",
-  "explorer.compactFolders": false,
-  "extensions.ignoreRecommendations": true,
-  "javascript.updateImportsOnFileMove.enabled": "never",
-  "typescript.updateImportsOnFileMove.enabled": "never",
-  "breadcrumbs.enabled": true,
-  "editor.parameterHints.enabled": false,
-  "explorer.confirmDragAndDrop": false,
-  "explorer.confirmDelete": false,
-  "editor.rulers": [80, 120],
-  "editor.semanticHighlighting.enabled": false,
-  "workbench.startupEditor": "newUntitledFile",
-  "editor.wordWrap": "on",
-  "editor.accessibilitySupport": "off",
-  "editor.tabSize": 2,
-  "material-icon-theme.folders.associations": {
-    "infra": "app",
-    "entities": "class",
-    "schemas": "class",
-    "typeorm": "database",
-    "repositories": "mappings",
-    "http": "container",
-    "migrations": "tools",
-    "modules": "components",
-    "implementations": "core",
-    "dtos": "typescript",
-    "fakes": "mock",
-    "websockets": "pipe",
-    "protos": "pipe",
-    "grpc": "pipe"
-  },
-
-  "material-icon-theme.files.associations": {
-    "ormconfig.json": "database",
-    "tsconfig.json": "tune",
-    "*.proto": "3d"
-  },
-  "editor.renderIndentGuides": true,
-  "liveshare.authenticationProvider": "GitHub",
-  "editor.detectIndentation": false,
-  "editor.cursorBlinking": "expand",
-  "eslint.validate": ["javascript", "javascriptreact", "typescript", "typescriptreact"],
-  "editor.codeActionsOnSave": {
-    "source.fixAll": true
-  },
-  "eslint.codeAction.showDocumentation": {
-    "enable": true
-  },
-  "errorLens.enabledDiagnosticLevels": [
-    "error",
-    "warning"
-  ],
-  "window.zoomLevel": 1,
-  "security.workspace.trust.untrustedFiles": "open",
-  "powermode.enabled": true,
-  "tabnine.experimentalAutoImports": true
-}
+    "editor.fontLigatures": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "explorer.compactFolders": false,
+    "extensions.ignoreRecommendations": true,
+    "javascript.updateImportsOnFileMove.enabled": "never",
+    "typescript.updateImportsOnFileMove.enabled": "never",
+    "breadcrumbs.enabled": true,
+    "editor.parameterHints.enabled": false,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "editor.rulers": [80, 120],
+    "editor.semanticHighlighting.enabled": false,
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.wordWrap": "on",
+    "editor.accessibilitySupport": "off",
+    "editor.tabSize": 2,
+    "material-icon-theme.folders.associations": {
+      "infra": "app",
+      "entities": "class",
+      "schemas": "class",
+      "typeorm": "database",
+      "repositories": "mappings",
+      "http": "container",
+      "migrations": "tools",
+      "modules": "components",
+      "implementations": "core",
+      "dtos": "typescript",
+      "fakes": "mock",
+      "websockets": "pipe",
+      "protos": "pipe",
+      "grpc": "pipe"
+    },
+  
+    "material-icon-theme.files.associations": {
+      "ormconfig.json": "database",
+      "tsconfig.json": "tune",
+      "*.proto": "3d"
+    },
+    "editor.renderIndentGuides": true,
+    "liveshare.authenticationProvider": "GitHub",
+    "editor.detectIndentation": false,
+    "editor.cursorBlinking": "expand",
+    "eslint.validate": ["javascript", "javascriptreact", "typescript", "typescriptreact"],
+    "editor.codeActionsOnSave": {
+      "source.fixAll": true
+    },
+    "eslint.codeAction.showDocumentation": {
+      "enable": true
+    },
+    "errorLens.enabledDiagnosticLevels": [
+      "error",
+      "warning"
+    ],
+    "window.zoomLevel": 1.8,
+    "security.workspace.trust.untrustedFiles": "open",
+    "powermode.enabled": true,
+    "tabnine.experimentalAutoImports": true,
+    "editor.fontSize": 13.5,
+    "gitlens.advanced.messages": {
+      "suppressLineUncommittedWarning": true
+    },
+    "workbench.colorTheme": "Tokyo Night Storm",
+    "dart.flutterSdkPath": "/Users/ally/development/flutter"
+  }
