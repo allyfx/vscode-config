@@ -10,11 +10,15 @@
 
 - CSS Modules
 
+- Dart
+
 - DotENV
 
 - Error Lens
 
 - ESLint
+
+- Flutter
 
 - GitLens - Git supercharged
   
@@ -28,7 +32,7 @@
 
 - React Hooks Snippets
 
-- Tabnine
+- Svg Preview
   
 - vscode-styled-components
 
